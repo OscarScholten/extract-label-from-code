@@ -4,6 +4,7 @@ This VS Code extension allows users to select text and replace it with a custom 
 
 TODO:
 - sorting is not correct (yet) - DC_payment is sorted before DC_payPeriod
+- label needs to be added to translations file as well
 - error handing might be better
 - check if the label already exists
 
